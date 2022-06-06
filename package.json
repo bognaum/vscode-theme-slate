@@ -1,0 +1,21 @@
+{
+    "name": "slate-tm-theme-adjusted-by-bn",
+    "displayName": "Slate TM theme adjusted by BN",
+    "description": "A color theme from TextMate Themes repo, with softer brightness settings.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Slate TM theme adjusted by BN",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Slate TM theme adjusted by BN-color-theme.json"
+            }
+        ]
+    }
+}
