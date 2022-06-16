@@ -467,6 +467,14 @@
 		
 		"editor.findRangeHighlightBackground": "#00000080",
 		"editor.findRangeHighlightBorder": "#ff000000",
+
+		"tab.inactiveBackground": "#323233",
+		"tab.activeBackground": "#19191f",
+		"tab.activeBorder": "#19191f",
+		"tab.border": "#666",
+		"tab.activeBorderTop": "#666",
+		"editorGroupHeader.tabsBorder": "#666",
+		"editorGroupHeader.border": "#666",
 	},
 	"name": "Slate TM theme adjusted by BN"
 }
