@@ -495,6 +495,10 @@
 		"editorHoverWidget.border": "#999",
 		"input.background": "#222",
 		"input.border": "#666",
+
+		"notificationCenter.border": "#666",
+		// "notificationToast.border": "#666",
+		// "notifications.border": "#666",
 	},
 	"name": "Slate TM theme adjusted by BN"
 }
