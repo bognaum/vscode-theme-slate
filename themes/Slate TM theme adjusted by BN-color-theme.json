@@ -480,7 +480,17 @@
 		"keybindingLabel.border": "#555",
 		"keybindingLabel.bottomBorder": "#555",
 
+		// "widget.shadow": "#bbb",
+		// "widget.shadow": "#000",
+
+		"tree.indentGuidesStroke": "#666",
+
+		"editorWidget.border": "#666",
+
 		"minimap.selectionOccurrenceHighlight": "#6b6",
+
+		// "editorWidget.resizeBorder": "#888",
+		"editorHoverWidget.border": "#999",
 		"input.background": "#222",
 		"input.border": "#666",
 	},
