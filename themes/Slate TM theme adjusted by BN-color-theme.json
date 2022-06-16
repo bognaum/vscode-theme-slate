@@ -491,7 +491,7 @@
 
 		"minimap.selectionOccurrenceHighlight": "#6b6",
 
-		// "editorWidget.resizeBorder": "#888",
+		"editorWidget.resizeBorder": "#888",
 		"editorHoverWidget.border": "#999",
 		"input.background": "#222",
 		"input.border": "#666",
