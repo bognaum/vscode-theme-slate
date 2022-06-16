@@ -470,8 +470,8 @@
 
 		"editorGroupHeader.tabsBackground": "#323233",
 		"tab.inactiveBackground": "#323233",
-		"tab.activeBackground": "#19191f",
-		"tab.activeBorder": "#19191f",
+		"tab.activeBackground"              : "#19191f", // "editor.background":
+		"tab.activeBorder"                  : "#19191f",
 		"editorGroupHeader.noTabsBackground": "#19191f",
 		"tab.border": "#666",
 		"tab.activeBorderTop": "#666",
