@@ -479,6 +479,8 @@
 		"keybindingLabel.background": "#222",
 		"keybindingLabel.border": "#555",
 		"keybindingLabel.bottomBorder": "#555",
+		"input.background": "#222",
+		"input.border": "#666",
 	},
 	"name": "Slate TM theme adjusted by BN"
 }
