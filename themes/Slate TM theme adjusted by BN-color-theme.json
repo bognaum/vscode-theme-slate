@@ -445,9 +445,9 @@
 		"editor.foreground": "#ababb4",
 		"editorWhitespace.foreground": "#5b5a52",
 		"editor.lineHighlightBackground": "#2a2a33",
-		"editor.selectionBackground": "#393946",
-		
-		"editor.inactiveSelectionBackground": "#282832",
+
+		"editor.selectionBackground": "#49494f",
+		"editor.inactiveSelectionBackground": "#39393f",
 		
 		"editor.selectionHighlightBackground": "#00000000",
 		"editor.selectionHighlightBorder": "#ffffff",
