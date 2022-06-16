@@ -1,24 +1,6 @@
 {
 	"tokenColors": [
 		{
-			"settings": {
-				"background": "#19191f",
-				"foreground": "#ababb4",
-				"findHighlight": "#ffe792",
-				"findHighlightForeground": "#000000",
-				"activeGuide": "#9d550fb0",
-				"bracketsForeground": "#566981",
-				"bracketsOptions": "underline",
-				"bracketContentsForeground": "#89A7B1",
-				"bracketContentsOptions": "underline",
-				"tagsOptions": "stippled_underline",
-				"selectionBorder": "#888888",
-				"selectionCornerStyle": "square",
-				"highlight": "#cccccc",
-				"misspelling": "#FACB68"
-			}
-		},
-		{
 			"name": "Comment",
 			"scope": "comment",
 			"settings": {
@@ -115,7 +97,6 @@
 			"scope": "variable.parameter",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": ""
 			}
 		},
 		{
@@ -172,7 +153,6 @@
 			"name": "Invalid",
 			"scope": "invalid",
 			"settings": {
-				"background": "#00a8c6",
 				"fontStyle": "",
 				"foreground": "#f8f8f0"
 			}
@@ -181,7 +161,6 @@
 			"name": "Invalid deprecated",
 			"scope": "invalid.deprecated",
 			"settings": {
-				"background": "#00a8c6",
 				"foreground": "#f8f8f0"
 			}
 		},
@@ -266,9 +245,7 @@
 		{
 			"name": "Function argument",
 			"scope": "meta.property-name support.type.property-name",
-			"settings": {
-				"fontStyle": "normal"
-			}
+			"settings": {}
 		},
 		{
 			"name": "Function argument",
@@ -300,16 +277,12 @@
 			],
 			"settings": {
 				"foreground": "#ebebf4",
-				"fontStyle": "normal"
 			}
 		},
 		{
 			"name": "Function argument",
 			"scope": "variable.other",
-			"settings": {
-				"foreground": "",
-				"fontStyle": "normal"
-			}
+			"settings": {}
 		},
 		{
 			"name": "Coffeescript Function argument",
