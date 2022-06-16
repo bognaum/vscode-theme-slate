@@ -2,6 +2,7 @@
     "name": "slate-tm-theme-adjusted-by-bn",
     "displayName": "Slate TM theme adjusted by BN",
     "description": "A color theme from TextMate Themes repo, with softer brightness settings.",
+    "publisher": "Bognaum",
     "version": "0.0.1",
     "icon": "IMG/icon.jpg",
     "engines": {
