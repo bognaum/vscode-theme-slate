@@ -496,9 +496,10 @@
 		"input.background": "#222",
 		"input.border": "#666",
 
-		"notificationCenter.border": "#666",
 		// "notificationToast.border": "#666",
-		// "notifications.border": "#666",
+
+		"notificationCenter.border": "#666",
+		"notifications.border": "#666",
 
 		"debugExceptionWidget.border": "#666",
 		"debugToolBar.border": "#666",
