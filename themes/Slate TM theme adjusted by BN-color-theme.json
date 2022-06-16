@@ -468,9 +468,11 @@
 		"editor.findRangeHighlightBackground": "#00000080",
 		"editor.findRangeHighlightBorder": "#ff000000",
 
+		"editorGroupHeader.tabsBackground": "#323233",
 		"tab.inactiveBackground": "#323233",
 		"tab.activeBackground": "#19191f",
 		"tab.activeBorder": "#19191f",
+		"editorGroupHeader.noTabsBackground": "#19191f",
 		"tab.border": "#666",
 		"tab.activeBorderTop": "#666",
 		"editorGroupHeader.tabsBorder": "#666",
