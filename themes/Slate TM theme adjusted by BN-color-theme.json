@@ -448,6 +448,7 @@
 
 		"editor.selectionBackground": "#49494f",
 		"editor.inactiveSelectionBackground": "#39393f",
+		"selection.background": "#777",
 		
 		"editor.selectionHighlightBackground": "#00000000",
 		"editor.selectionHighlightBorder": "#ffffff",
