@@ -475,6 +475,10 @@
 		"tab.activeBorderTop": "#666",
 		"editorGroupHeader.tabsBorder": "#666",
 		"editorGroupHeader.border": "#666",
+
+		"keybindingLabel.background": "#222",
+		"keybindingLabel.border": "#555",
+		"keybindingLabel.bottomBorder": "#555",
 	},
 	"name": "Slate TM theme adjusted by BN"
 }
