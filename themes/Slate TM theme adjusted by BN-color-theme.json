@@ -466,7 +466,7 @@
 		"editor.findMatchHighlightBorder": "#00ff00",
 		
 		"editor.findRangeHighlightBackground": "#00000080",
-		"editor.findRangeHighlightBorder": "#ff000000",
+		// "editor.findRangeHighlightBorder": "#ff000000",
 
 		"editorGroupHeader.tabsBackground": "#323233",
 		"tab.inactiveBackground": "#323233",
