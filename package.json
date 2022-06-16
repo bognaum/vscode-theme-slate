@@ -3,7 +3,7 @@
     "displayName": "Slate TM theme adjusted by BN",
     "description": "A color theme from TextMate Themes repo, with softer brightness settings.",
     "version": "0.0.1",
-    "icon": "./IMG/icon.jpg",
+    "icon": "IMG/icon.jpg",
     "engines": {
         "vscode": "^1.67.0"
     },
