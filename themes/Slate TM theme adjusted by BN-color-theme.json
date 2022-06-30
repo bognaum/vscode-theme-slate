@@ -476,6 +476,10 @@
 
 		"debugExceptionWidget.border": "#666",
 		"debugToolBar.border": "#666",
+
+		// "menu.border": "#666",
+		"contrastBorder": "#444",
+		// "contrastActiveBorder": "#888",
 	},
 	"name": "Slate TM theme adjusted by BN"
 }
