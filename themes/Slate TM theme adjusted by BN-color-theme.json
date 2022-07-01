@@ -476,6 +476,7 @@
 
 		"debugExceptionWidget.border": "#666",
 		"debugToolBar.border": "#666",
+		"debugToolBar.background": "#444",
 
 		// "menu.border": "#666",
 		"contrastBorder": "#444",
