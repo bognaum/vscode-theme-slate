@@ -423,9 +423,6 @@
 		"editor.inactiveSelectionBackground": "#39393f",
 		"selection.background": "#777",
 		
-		"editor.selectionHighlightBackground": "#00000000",
-		"editor.selectionHighlightBorder": "#ffffff88",
-		
 		"editor.wordHighlightBackground": "#00000000",
 		"editor.wordHighlightBorder": "#88BB77",
 		
@@ -481,6 +478,15 @@
 		// "menu.border": "#666",
 		"contrastBorder": "#444",
 		// "contrastActiveBorder": "#888",
+
+		"minimapSlider.background": "#88888855",
+		"minimapSlider.hoverBackground":"#88888888",
+		"minimapSlider.activeBackground": "#2c698b88",
+				
+		"editor.selectionHighlightBackground": "#00000000",
+		"editor.selectionHighlightBorder"    : "#88888888",
+		
+		"menu.selectionBackground": "#2c698b",
 	},
 	"name": "Slate TM theme adjusted by BN"
 }
